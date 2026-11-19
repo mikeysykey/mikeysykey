@@ -1,9 +1,7 @@
 {
   "_note": "Any date not listed is free. Status can be 'held' or 'confirmed'. Use a single date or a range like '2026-12-14/2026-12-18'. A single date overrides a range that covers it.",
 
-  "2026-12-02": "held",
+  "2026-11-20/2026-11-30": "confirmed",
   "2026-12-03": "held",
-  "2026-12-08/2026-12-12": "confirmed",
-  "2026-12-24/2026-12-31": "confirmed",
-  "2027-01-12": "held"
+  "2026-12-24/2027-01-31": "confirmed",
 }
